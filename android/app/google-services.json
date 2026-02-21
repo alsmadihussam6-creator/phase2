@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283214688056",
+    "project_id": "cvproject-156c8",
+    "storage_bucket": "cvproject-156c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283214688056:android:eda2270fa74ec344a8dbcd",
+        "android_client_info": {
+          "package_name": "com.alsmadi.phase_2_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycgHYwgBillXHTdxR5o3SrXZ3csVpVmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
