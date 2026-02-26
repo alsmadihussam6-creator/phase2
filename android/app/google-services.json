@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:283214688056:android:4518b96dc7bf78cfa8dbcd",
+        "android_client_info": {
+          "package_name": "com.alsmadi.CVora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycgHYwgBillXHTdxR5o3SrXZ3csVpVmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:283214688056:android:eda2270fa74ec344a8dbcd",
         "android_client_info": {
           "package_name": "com.alsmadi.phase_2_project"
